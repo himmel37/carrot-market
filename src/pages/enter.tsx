@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import { useState } from "react";
-import Button from "./components/button";
-import Input from "./components/input";
+import Button from "../components/button";
+import Input from "../components/input";
 import { cls } from "./libs/utils";
 
 const Enter: NextPage = () => {
